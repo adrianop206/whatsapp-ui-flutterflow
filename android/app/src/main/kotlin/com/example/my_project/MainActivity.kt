@@ -1,4 +1,4 @@
-package com.flutterflow.whatsappui
+package com.mycompany.whatsappui
 
 import io.flutter.embedding.android.FlutterActivity
 
